@@ -26,13 +26,10 @@ This is a simple, clean, and responsive website featuring an interactive navigat
 ## 📝 How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   
-
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
 2.Navigate to the project directory:
 cd your-repo-name
-
 3. Open index.html in your browser to view the site locally.
 
 
